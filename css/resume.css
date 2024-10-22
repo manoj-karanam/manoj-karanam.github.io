@@ -53,6 +53,8 @@ h2 {
   font-weight: 600;
   text-transform: uppercase; }
 
+
+
 @media (min-width: 992px) {
   #sideNav {
     text-align: center;
@@ -113,3 +115,5 @@ a {
   color: #BD5D38; }
   a:hover, a:focus, a:active {
     color: #824027; }
+
+
